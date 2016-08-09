@@ -19,3 +19,6 @@ CONTAINER ID  IMAGE                      COMMAND                CREATED        S
 [root@29b054694b3a kafka_2.10-0.8.2.0]#
 
 ```
+
+# create topic
+![gif](https://raw.githubusercontent.com/samuelololol/docker-kafka/master/tty.gif)
